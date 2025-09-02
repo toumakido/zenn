@@ -1,0 +1,7 @@
+{
+  "name": "zenn",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "zenn-cli": "^0.2.3"
+  }
+}
